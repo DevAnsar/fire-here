@@ -1,6 +1,6 @@
 {
   "name": "fire-here",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -46,5 +46,6 @@
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4"
-  }
+  },
+  "license": "MIT"
 }
